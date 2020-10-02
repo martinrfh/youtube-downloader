@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e07ba76a8d8a2f56c98518daa612b432",
+    "revision": "c4b880c47ff944ff08c4dcbfde422c6f",
     "url": "/youtube-downloader/index.html"
   },
   {
-    "revision": "431b1a1f3ef212ff29e3",
-    "url": "/youtube-downloader/static/css/main.e70b5e0f.chunk.css"
+    "revision": "06e2af982e5078c6a585",
+    "url": "/youtube-downloader/static/css/main.5724ba92.chunk.css"
   },
   {
     "revision": "f58a05be3948ca26ee60",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youtube-downloader/static/js/2.d7ff1441.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "431b1a1f3ef212ff29e3",
+    "revision": "06e2af982e5078c6a585",
     "url": "/youtube-downloader/static/js/main.cca6b9ff.chunk.js"
   },
   {
